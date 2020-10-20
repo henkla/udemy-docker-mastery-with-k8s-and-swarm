@@ -3,6 +3,10 @@ Build, test, deploy containers with the best mega-course on Docker, Kubernetes, 
 
 ## Resources
 
+### Documentation
+
+* [Docker Official Documentation](https://docs.docker.com/)
+
 ### Course
 * [Udemy Course Site](https://www.udemy.com/course/docker-mastery/learn/lecture/16810938?components=buy_button%2Cdiscount_expiration%2Cgift_this_course%2Cpurchase%2Cdeal_badge%2Credeem_coupon#overview)
 - [Course repository @Github](https://github.com/bretfisher/udemy-docker-mastery)
